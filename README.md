@@ -3,4 +3,5 @@ This project uses machine learning to recommend the best crop based on parameter
 # how to run it
 pip install numpy pandas scikit-learn
 python3 crop.py 
-
+# dataset in csv file
+crop_data.csv
